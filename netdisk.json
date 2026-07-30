@@ -1,1 +1,13 @@
-{"version": 1, "files": {}}
+{
+  "version": 1,
+  "files": {
+    "老师风格.txt": {
+      ":file": "netdisk-45bbd213b2c04b71bf59236a74d67318",
+      ":assets": [
+        "default.txt"
+      ],
+      ":hash": "04c2cf85e42e99b207e3833ea9bd71b398469c4f5bb419434cf22c941424ba0f",
+      ":size": 9931
+    }
+  }
+}
